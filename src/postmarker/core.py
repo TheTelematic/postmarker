@@ -35,6 +35,7 @@ class PostmarkClient:
         MessageManager,
         SenderSignaturesManager,
         ServerManager,
+        SuppressionsManager,
         StatsManager,
         StatusManager,
         TemplateManager,
